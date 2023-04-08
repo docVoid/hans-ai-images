@@ -1,35 +1,3 @@
-# hans-ai-images
-Our GitHub repository provides the necessary code and resources to run HANS-AI locally on your own machine. With this, you can experience the image generation capabilities of HANS-AI and even train your own AI models using our codebase.
-
-
-## HANS-AI
-HANS-AI is an open-source AI system for image generating using Generative Adversarial Networks (GANs).
-
-Prerequisites
-To run HANS-AI locally, you will need the following:
-
-Python 3.9 or newer
-Git
-Getting Started
-Clone the HANS-AI repository:
-bash
-Copy code
-git clone https://github.com/username/hans-ai.git
-Install the required Python packages:
-Copy code
-pip install -r requirements.txt
-Run the HANS-AI script:
-Copy code
-python hans-ai.py
-Usage
-The HANS-AI script can be used to generate images using GANs. You can modify the parameters in the script to adjust the image output.
-
-Contributing
-If you'd like to contribute to HANS-AI, please create a pull request with your changes.
-
-License
-HANS-AI is licensed under the MIT License. See LICENSE for more information.
-
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
